@@ -1,1 +1,1 @@
-# Hotel_api
+Hotel Project
